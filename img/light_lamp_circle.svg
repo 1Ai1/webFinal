@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="293px" height="293px" viewBox="0 0 293 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Oval Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="44.2146737%" gradientTransform="translate(0.500000,0.500000),scale(0.996997,1.000000),rotate(180.000000),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.119999997">
+        <g id="Overview_01" transform="translate(-1301.000000, -186.000000)" fill="url(#radialGradient-1)">
+            <g id="BG">
+                <g id="Light" transform="translate(1059.000000, 166.000000)">
+                    <g id="Top" transform="translate(0.000000, 0.500000)">
+                        <ellipse id="Oval-Copy" style="mix-blend-mode: screen;" cx="388.5" cy="166" rx="166.5" ry="166"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

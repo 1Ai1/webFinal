@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="868px" height="798px" viewBox="0 0 868 798" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-16.3679428%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-11.3%" y="-12.1%" width="122.5%" height="124.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="28" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.100000001">
+        <g id="Overview_01" transform="translate(-1018.000000, -282.000000)" fill="url(#linearGradient-1)">
+            <g id="BG">
+                <g id="Light" transform="translate(1059.000000, 166.000000)">
+                    <g id="Top" transform="translate(0.000000, 0.500000)">
+                        <path d="M239.296588,175.386933 L546.703412,175.386933 L766,813.5 C651.141731,850.155164 532.192912,868.482746 409.153543,868.482746 C286.114175,868.482746 156.396327,850.155164 20,813.5 L239.296588,175.386933 Z" id="Rectangle" style="mix-blend-mode: screen;" filter="url(#filter-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
